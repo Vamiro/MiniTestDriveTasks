@@ -1,0 +1,14 @@
+C:\Users\Vovka\source\repos\FirstTask\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.exe
+C:\Users\Vovka\source\repos\FirstTask\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.deps.json
+C:\Users\Vovka\source\repos\FirstTask\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.runtimeconfig.json
+C:\Users\Vovka\source\repos\FirstTask\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.runtimeconfig.dev.json
+C:\Users\Vovka\source\repos\FirstTask\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.dll
+C:\Users\Vovka\source\repos\FirstTask\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.pdb
+C:\Users\Vovka\source\repos\FirstTask\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.csproj.AssemblyReference.cache
+C:\Users\Vovka\source\repos\FirstTask\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vovka\source\repos\FirstTask\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.AssemblyInfoInputs.cache
+C:\Users\Vovka\source\repos\FirstTask\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.AssemblyInfo.cs
+C:\Users\Vovka\source\repos\FirstTask\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\Vovka\source\repos\FirstTask\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.dll
+C:\Users\Vovka\source\repos\FirstTask\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.pdb
+C:\Users\Vovka\source\repos\FirstTask\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.genruntimeconfig.cache

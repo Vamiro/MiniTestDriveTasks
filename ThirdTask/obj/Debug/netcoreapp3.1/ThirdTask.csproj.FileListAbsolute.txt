@@ -1,0 +1,14 @@
+C:\Users\Vovka\source\repos\FirstTask\ThirdTask\bin\Debug\netcoreapp3.1\ThirdTask.exe
+C:\Users\Vovka\source\repos\FirstTask\ThirdTask\bin\Debug\netcoreapp3.1\ThirdTask.deps.json
+C:\Users\Vovka\source\repos\FirstTask\ThirdTask\bin\Debug\netcoreapp3.1\ThirdTask.runtimeconfig.json
+C:\Users\Vovka\source\repos\FirstTask\ThirdTask\bin\Debug\netcoreapp3.1\ThirdTask.runtimeconfig.dev.json
+C:\Users\Vovka\source\repos\FirstTask\ThirdTask\bin\Debug\netcoreapp3.1\ThirdTask.dll
+C:\Users\Vovka\source\repos\FirstTask\ThirdTask\bin\Debug\netcoreapp3.1\ThirdTask.pdb
+C:\Users\Vovka\source\repos\FirstTask\ThirdTask\obj\Debug\netcoreapp3.1\ThirdTask.csproj.AssemblyReference.cache
+C:\Users\Vovka\source\repos\FirstTask\ThirdTask\obj\Debug\netcoreapp3.1\ThirdTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vovka\source\repos\FirstTask\ThirdTask\obj\Debug\netcoreapp3.1\ThirdTask.AssemblyInfoInputs.cache
+C:\Users\Vovka\source\repos\FirstTask\ThirdTask\obj\Debug\netcoreapp3.1\ThirdTask.AssemblyInfo.cs
+C:\Users\Vovka\source\repos\FirstTask\ThirdTask\obj\Debug\netcoreapp3.1\ThirdTask.csproj.CoreCompileInputs.cache
+C:\Users\Vovka\source\repos\FirstTask\ThirdTask\obj\Debug\netcoreapp3.1\ThirdTask.dll
+C:\Users\Vovka\source\repos\FirstTask\ThirdTask\obj\Debug\netcoreapp3.1\ThirdTask.pdb
+C:\Users\Vovka\source\repos\FirstTask\ThirdTask\obj\Debug\netcoreapp3.1\ThirdTask.genruntimeconfig.cache

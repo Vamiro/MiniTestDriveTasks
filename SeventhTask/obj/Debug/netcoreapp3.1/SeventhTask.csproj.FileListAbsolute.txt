@@ -1,0 +1,14 @@
+C:\Users\Vovka\source\repos\FirstTask\SeventhTask\bin\Debug\netcoreapp3.1\SeventhTask.exe
+C:\Users\Vovka\source\repos\FirstTask\SeventhTask\bin\Debug\netcoreapp3.1\SeventhTask.deps.json
+C:\Users\Vovka\source\repos\FirstTask\SeventhTask\bin\Debug\netcoreapp3.1\SeventhTask.runtimeconfig.json
+C:\Users\Vovka\source\repos\FirstTask\SeventhTask\bin\Debug\netcoreapp3.1\SeventhTask.runtimeconfig.dev.json
+C:\Users\Vovka\source\repos\FirstTask\SeventhTask\bin\Debug\netcoreapp3.1\SeventhTask.dll
+C:\Users\Vovka\source\repos\FirstTask\SeventhTask\bin\Debug\netcoreapp3.1\SeventhTask.pdb
+C:\Users\Vovka\source\repos\FirstTask\SeventhTask\obj\Debug\netcoreapp3.1\SeventhTask.csproj.AssemblyReference.cache
+C:\Users\Vovka\source\repos\FirstTask\SeventhTask\obj\Debug\netcoreapp3.1\SeventhTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vovka\source\repos\FirstTask\SeventhTask\obj\Debug\netcoreapp3.1\SeventhTask.AssemblyInfoInputs.cache
+C:\Users\Vovka\source\repos\FirstTask\SeventhTask\obj\Debug\netcoreapp3.1\SeventhTask.AssemblyInfo.cs
+C:\Users\Vovka\source\repos\FirstTask\SeventhTask\obj\Debug\netcoreapp3.1\SeventhTask.csproj.CoreCompileInputs.cache
+C:\Users\Vovka\source\repos\FirstTask\SeventhTask\obj\Debug\netcoreapp3.1\SeventhTask.dll
+C:\Users\Vovka\source\repos\FirstTask\SeventhTask\obj\Debug\netcoreapp3.1\SeventhTask.pdb
+C:\Users\Vovka\source\repos\FirstTask\SeventhTask\obj\Debug\netcoreapp3.1\SeventhTask.genruntimeconfig.cache
