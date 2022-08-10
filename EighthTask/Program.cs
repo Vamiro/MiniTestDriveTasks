@@ -6,48 +6,56 @@ namespace EighthTask
     {
         static void Main(string[] args)
         {
-            int waitingTime = 10;
+            int waitingTimeInMinutes = 10;
             int queue;
-            int resultTime;
+            int resultTimeInMinutes;
+            int minute = 1;
+            int hourInMinutes = minute * 60;
+            int dayInMinutes = hourInMinutes * 24;
+            int yearInMinutes = dayInMinutes * 365;
 
             string resultOutput = "";
 
             Console.WriteLine("Сколько старушек в очереди?");
             queue = Convert.ToInt32(Console.ReadLine());
+
             if (queue == 0)
             {
                 Console.WriteLine("Чего стоишь? Проходи!");
             }
             else
             {
-                resultTime = queue * waitingTime;
+                resultTimeInMinutes = queue * waitingTimeInMinutes;
 
-                if (resultTime - 524160 >= 0)
+                if (resultTimeInMinutes - yearInMinutes >= 0)
                 {
-                    int years = resultTime / 524160;
-                    resultOutput += "года: " + years;
-                    resultTime -= years * 524160;
+                    int yearsToWait = resultTimeInMinutes / yearInMinutes;
+                    resultOutput += " Год: " + yearsToWait;
+                    resultTimeInMinutes %= yearInMinutes;
                 }
-                if (resultTime - 1440 >= 0)
+
+                if (resultTimeInMinutes - dayInMinutes >= 0)
                 {
-                    int days = resultTime / 1440;
-                    resultOutput += " дни: " + days;
-                    resultTime -= days * 1440;
+                    int daysToWait = resultTimeInMinutes / dayInMinutes;
+                    resultOutput += " День: " + daysToWait;
+                    resultTimeInMinutes %= dayInMinutes;
                 }
-                if (resultTime - 60 >= 0)
+
+                if (resultTimeInMinutes - hourInMinutes >= 0)
                 {
-                    int hours = resultTime / 60;
-                    resultOutput += " часа: " + hours;
-                    resultTime -= hours * 60;
+                    int hoursToWait = resultTimeInMinutes / hourInMinutes;
+                    resultOutput += " Час: " + hoursToWait;
+                    resultTimeInMinutes %= hourInMinutes;
                 }
-                if (resultTime != 0)
+
+                if (resultTimeInMinutes != 0)
                 {
-                    resultOutput += " минуты: " + resultTime;
-                    resultTime = 0;
+                    resultOutput += " Минута: " + resultTimeInMinutes;
+                    resultTimeInMinutes = 0;
                 }
+                resultOutput = resultOutput.Substring(1);
+                Console.WriteLine("Вы должны стоять в очереди:\n{0}", resultOutput);
             }
-            Console.WriteLine("Вы должны стоять в очереди:\n{0}", resultOutput);
-
         }
     }
 }

@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vovka\\source\\repos\\FirstTask\\SeventhTask\\SeventhTask.csproj": {}
+    "C:\\Users\\Inspi\\Downloads\\FirstTask\\FirstTask\\SeventhTask\\SeventhTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vovka\\source\\repos\\FirstTask\\SeventhTask\\SeventhTask.csproj": {
+    "C:\\Users\\Inspi\\Downloads\\FirstTask\\FirstTask\\SeventhTask\\SeventhTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vovka\\source\\repos\\FirstTask\\SeventhTask\\SeventhTask.csproj",
+        "projectUniqueName": "C:\\Users\\Inspi\\Downloads\\FirstTask\\FirstTask\\SeventhTask\\SeventhTask.csproj",
         "projectName": "SeventhTask",
-        "projectPath": "C:\\Users\\Vovka\\source\\repos\\FirstTask\\SeventhTask\\SeventhTask.csproj",
-        "packagesPath": "C:\\Users\\Vovka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vovka\\source\\repos\\FirstTask\\SeventhTask\\obj\\",
+        "projectPath": "C:\\Users\\Inspi\\Downloads\\FirstTask\\FirstTask\\SeventhTask\\SeventhTask.csproj",
+        "packagesPath": "C:\\Users\\Inspi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Inspi\\Downloads\\FirstTask\\FirstTask\\SeventhTask\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Vovka\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Inspi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -59,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     }

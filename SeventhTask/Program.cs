@@ -6,38 +6,38 @@ namespace SeventhTask
     {
         static void Main(string[] args)
         {
-            var rand = new Random();
+            var random = new Random();
 
-            int money;
-            int crystals = 0;
-            int crystalPrice = rand.Next(5, 15);
-            int crystalsAmount = 0;
-            int maxToBuy;
+            int playersMoney;
+            int playersCrystals = 0;
+            int crystalPrice = random.Next(5, 15);
+            int crystalsAmountToBuy = 0;
+            int maximumCrystalsToBuy;
 
             Console.WriteLine("Сколько у тебя с собой золота?");
-            money = Convert.ToInt32(Console.ReadLine());
+            playersMoney = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Я продаю кристалы по цене {0} золота за штуку", crystalPrice);
-            maxToBuy = money / crystalPrice;
+            maximumCrystalsToBuy = playersMoney / crystalPrice;
 
-            if (maxToBuy > 0)
+            if (maximumCrystalsToBuy > 0)
             {
-                Console.WriteLine("Максимальное кол-во кристалов которые ты можешь купить составляет: {0}\nСколько кристалов ты хочешь купить ?", maxToBuy);
-                crystalsAmount = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Максимальное кол-во кристалов которые ты можешь купить составляет: {0}\nСколько кристалов ты хочешь купить ?", maximumCrystalsToBuy);
+                crystalsAmountToBuy = Convert.ToInt32(Console.ReadLine());
 
-                if (crystalsAmount <= 0)
+                if (crystalsAmountToBuy <= 0)
                 {
                     Console.WriteLine("В следующий раз решайся на покупку.");
                 }
-                else if (crystalsAmount > maxToBuy)
+                else if (crystalsAmountToBuy > maximumCrystalsToBuy)
                 {
                     Console.WriteLine("Боюсь ты не можешь столько позволить...");
                 }
                 else
                 {
-                    money -= crystalsAmount * crystalPrice;
-                    crystals += crystalsAmount;
-                    Console.WriteLine("Приятно иметь с тобой дело!\nЗолото: {0}; Кристалы {1}", money, crystals);
+                    playersMoney -= crystalsAmountToBuy * crystalPrice;
+                    playersCrystals += crystalsAmountToBuy;
+                    Console.WriteLine("Приятно иметь с тобой дело!\nЗолото: {0}; Кристалы {1}", playersMoney, playersCrystals);
                 }
             }
             else

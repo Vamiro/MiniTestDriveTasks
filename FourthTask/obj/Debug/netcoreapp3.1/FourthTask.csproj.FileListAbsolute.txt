@@ -12,3 +12,17 @@ C:\Users\Vovka\source\repos\FirstTask\FourthTask\bin\Debug\netcoreapp3.1\FourthT
 C:\Users\Vovka\source\repos\FirstTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.dll
 C:\Users\Vovka\source\repos\FirstTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.pdb
 C:\Users\Vovka\source\repos\FirstTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.genruntimeconfig.cache
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.exe
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.deps.json
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.runtimeconfig.json
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.runtimeconfig.dev.json
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.dll
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.pdb
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.csproj.AssemblyReference.cache
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.AssemblyInfoInputs.cache
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.AssemblyInfo.cs
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.csproj.CoreCompileInputs.cache
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.dll
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.pdb
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.genruntimeconfig.cache
