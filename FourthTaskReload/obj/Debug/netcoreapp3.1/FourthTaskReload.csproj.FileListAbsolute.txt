@@ -1,0 +1,13 @@
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTaskReload\bin\Debug\netcoreapp3.1\FourthTaskReload.exe
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTaskReload\bin\Debug\netcoreapp3.1\FourthTaskReload.deps.json
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTaskReload\bin\Debug\netcoreapp3.1\FourthTaskReload.runtimeconfig.json
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTaskReload\bin\Debug\netcoreapp3.1\FourthTaskReload.runtimeconfig.dev.json
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTaskReload\bin\Debug\netcoreapp3.1\FourthTaskReload.dll
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTaskReload\bin\Debug\netcoreapp3.1\FourthTaskReload.pdb
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTaskReload\obj\Debug\netcoreapp3.1\FourthTaskReload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTaskReload\obj\Debug\netcoreapp3.1\FourthTaskReload.AssemblyInfoInputs.cache
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTaskReload\obj\Debug\netcoreapp3.1\FourthTaskReload.AssemblyInfo.cs
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTaskReload\obj\Debug\netcoreapp3.1\FourthTaskReload.csproj.CoreCompileInputs.cache
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTaskReload\obj\Debug\netcoreapp3.1\FourthTaskReload.dll
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTaskReload\obj\Debug\netcoreapp3.1\FourthTaskReload.pdb
+C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTaskReload\obj\Debug\netcoreapp3.1\FourthTaskReload.genruntimeconfig.cache
