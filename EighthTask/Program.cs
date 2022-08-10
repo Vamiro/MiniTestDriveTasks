@@ -9,10 +9,15 @@ namespace EighthTask
             int waitingTimeInMinutes = 10;
             int queue;
             int resultTimeInMinutes;
+
             int minute = 1;
-            int hourInMinutes = minute * 60;
-            int dayInMinutes = hourInMinutes * 24;
-            int yearInMinutes = dayInMinutes * 365;
+            int minutesInHour = 60;
+            int hoursInDay = 24;
+            int daysInYear = 365;
+
+            int hourInMinutes = minute * minutesInHour;
+            int dayInMinutes = hourInMinutes * hoursInDay;
+            int yearInMinutes = dayInMinutes * daysInYear;
 
             string resultOutput = "";
 
