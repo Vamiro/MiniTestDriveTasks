@@ -6,7 +6,11 @@ namespace FourthTaskReload
     {
         static void Main(string[] args)
         {
-            string name, birthday, zodiacSing, country;
+            string name;
+            string birthday;
+            string zodiacSing;
+            string country;
+
             Console.WriteLine("Как вас зовут?");
             name = Console.ReadLine();
             Console.WriteLine("Какая ваша дата рождения?");
