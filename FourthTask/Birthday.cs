@@ -7,30 +7,31 @@ namespace FourthTask
 {
     class Birthday
     {
-        public DateTime DateOfBirthday { get; }
-
-        public Birthday() {
-            DateOfBirthday = ParseInputBirthday();
-        }
-        
-        public DateTime ParseInputBirthday()
+        public string[] MonthsNames = new string[]
         {
-            DateTime parsedDateOfBirthday;
-            string inputDate;
+            "Января",
+            "Февраля",
+            "Марта",
+            "Апреля",
+            "Мая",
+            "Июня",
+            "Июля",
+            "Августа",
+            "Сентября",
+            "Октября",
+            "Ноября",
+            "Декабря"
+        };
 
-            do
-            {
-                Console.WriteLine("Укажите Вашу дату рождения в формате дд.мм.гггг:");
-                inputDate = Console.ReadLine();
-            }
-            while (!DateTime.TryParseExact(inputDate, "dd.MM.yyyy", null, DateTimeStyles.None, out parsedDateOfBirthday));
-            return parsedDateOfBirthday;
+        public DateTime DateOfBirthday { get; private set; }
+
+        public Birthday(DateTime birthday) {
+            DateOfBirthday = birthday;
         }
-
-        public MonthsNames GetMonthName()
+    
+        public string GetMonthName()
         {
-            MonthsNames monthName = (MonthsNames)DateOfBirthday.Month;
-            return monthName;
+            return MonthsNames[DateOfBirthday.Month-1];
         }
 
         public int CalculateAge()
@@ -47,5 +48,17 @@ namespace FourthTask
             Console.WriteLine(DateOfBirthday);
         }
 
+        public static bool TryParse(string inputDate, out Birthday birthday)
+        {
+            birthday = DateTime.TryParseExact(inputDate, "dd.MM.yyyy", null, DateTimeStyles.None,
+                out var parsedDateOfBirthday) 
+                ? new Birthday(parsedDateOfBirthday) : null;
+            return birthday != null;
+        }
+
+        public void AddDay(int offset)
+        {
+            DateOfBirthday = DateOfBirthday.AddDays(offset);
+        }
     }
 }
