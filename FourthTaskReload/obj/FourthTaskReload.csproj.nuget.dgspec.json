@@ -1,21 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Inspi\\Downloads\\FirstTask\\FirstTask\\FourthTaskReload\\FourthTaskReload.csproj": {}
+    "C:\\Users\\Vovka\\OneDrive\\Документы\\GitHub\\MiniTestDriveTasks\\FourthTaskReload\\FourthTaskReload.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Inspi\\Downloads\\FirstTask\\FirstTask\\FourthTaskReload\\FourthTaskReload.csproj": {
+    "C:\\Users\\Vovka\\OneDrive\\Документы\\GitHub\\MiniTestDriveTasks\\FourthTaskReload\\FourthTaskReload.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Inspi\\Downloads\\FirstTask\\FirstTask\\FourthTaskReload\\FourthTaskReload.csproj",
+        "projectUniqueName": "C:\\Users\\Vovka\\OneDrive\\Документы\\GitHub\\MiniTestDriveTasks\\FourthTaskReload\\FourthTaskReload.csproj",
         "projectName": "FourthTaskReload",
-        "projectPath": "C:\\Users\\Inspi\\Downloads\\FirstTask\\FirstTask\\FourthTaskReload\\FourthTaskReload.csproj",
-        "packagesPath": "C:\\Users\\Inspi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Inspi\\Downloads\\FirstTask\\FirstTask\\FourthTaskReload\\obj\\",
+        "projectPath": "C:\\Users\\Vovka\\OneDrive\\Документы\\GitHub\\MiniTestDriveTasks\\FourthTaskReload\\FourthTaskReload.csproj",
+        "packagesPath": "C:\\Users\\Vovka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vovka\\OneDrive\\Документы\\GitHub\\MiniTestDriveTasks\\FourthTaskReload\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Inspi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Vovka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

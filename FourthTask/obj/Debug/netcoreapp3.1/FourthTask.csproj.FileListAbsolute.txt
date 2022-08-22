@@ -26,3 +26,17 @@ C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTask\obj\Debug\netcoreapp3.1\
 C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.dll
 C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.pdb
 C:\Users\Inspi\Downloads\FirstTask\FirstTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.genruntimeconfig.cache
+C:\Users\Vovka\OneDrive\Документы\GitHub\MiniTestDriveTasks\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.exe
+C:\Users\Vovka\OneDrive\Документы\GitHub\MiniTestDriveTasks\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.deps.json
+C:\Users\Vovka\OneDrive\Документы\GitHub\MiniTestDriveTasks\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.runtimeconfig.json
+C:\Users\Vovka\OneDrive\Документы\GitHub\MiniTestDriveTasks\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.runtimeconfig.dev.json
+C:\Users\Vovka\OneDrive\Документы\GitHub\MiniTestDriveTasks\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.dll
+C:\Users\Vovka\OneDrive\Документы\GitHub\MiniTestDriveTasks\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.pdb
+C:\Users\Vovka\OneDrive\Документы\GitHub\MiniTestDriveTasks\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.csproj.AssemblyReference.cache
+C:\Users\Vovka\OneDrive\Документы\GitHub\MiniTestDriveTasks\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vovka\OneDrive\Документы\GitHub\MiniTestDriveTasks\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.AssemblyInfoInputs.cache
+C:\Users\Vovka\OneDrive\Документы\GitHub\MiniTestDriveTasks\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.AssemblyInfo.cs
+C:\Users\Vovka\OneDrive\Документы\GitHub\MiniTestDriveTasks\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.csproj.CoreCompileInputs.cache
+C:\Users\Vovka\OneDrive\Документы\GitHub\MiniTestDriveTasks\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.dll
+C:\Users\Vovka\OneDrive\Документы\GitHub\MiniTestDriveTasks\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.pdb
+C:\Users\Vovka\OneDrive\Документы\GitHub\MiniTestDriveTasks\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.genruntimeconfig.cache
