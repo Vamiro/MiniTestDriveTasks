@@ -25,12 +25,12 @@
             new ZodiacInfo {Day = 22, Sing = "Козерог"},
 
         };
-        
+
         public ZodiacSing(Birthday birthday)
         {
             Birthday = birthday;
         }
-        
+
         public string SearchZodiacSingName()
         {
             var dateOfBirthday = Birthday.DateOfBirthday;
@@ -38,7 +38,7 @@
             int day = dateOfBirthday.Day;
 
             var info = _zodiacs[month];
-            if (day < info.Day) 
+            if (day < info.Day)
                 info = _zodiacs[(month + _zodiacs.Length - 1) % _zodiacs.Length];
 
             return info.Sing;

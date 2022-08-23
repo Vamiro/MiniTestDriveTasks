@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Globalization;
-using System.Text;
 
 namespace FourthTask
 {
@@ -25,13 +23,14 @@ namespace FourthTask
 
         public DateTime DateOfBirthday { get; private set; }
 
-        public Birthday(DateTime birthday) {
+        public Birthday(DateTime birthday)
+        {
             DateOfBirthday = birthday;
         }
-    
+
         public string GetMonthName()
         {
-            return MonthsNames[DateOfBirthday.Month-1];
+            return MonthsNames[DateOfBirthday.Month - 1];
         }
 
         public int CalculateAge()
@@ -51,7 +50,7 @@ namespace FourthTask
         public static bool TryParse(string inputDate, out Birthday birthday)
         {
             birthday = DateTime.TryParseExact(inputDate, "dd.MM.yyyy", null, DateTimeStyles.None,
-                out var parsedDateOfBirthday) 
+                out var parsedDateOfBirthday)
                 ? new Birthday(parsedDateOfBirthday) : null;
             return birthday != null;
         }
